@@ -1,18 +1,20 @@
 {
-  "name": "adonis-fullstack-app",
-  "version": "4.1.0",
+  "name": "adonis-qoutes",
+  "version": "0.0.0",
   "adonis-version": "4.1.0",
-  "description": "The fullstack application boilerplate for Adonisjs",
-  "main": "index.js",
+  "description": "A simple qoutes app built with Adonisjs",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "node ace test"
   },
   "keywords": [
     "adonisjs",
-    "adonis-app"
+    "adonis-app",
+    "qoutes",
+    "inspiration"
   ],
-  "author": "",
+  "author": "Alpha Olomi <hell@alphaolomi.com>",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
