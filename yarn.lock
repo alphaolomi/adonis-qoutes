@@ -117,10 +117,10 @@
     youch "^2.0.10"
     youch-terminal "^1.0.0"
 
-"@adonisjs/lucid@^6.2.0":
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/@adonisjs/lucid/-/lucid-6.2.0.tgz#2c8dde308ad0b2326cb3b8ba749493fb430ca9fa"
-  integrity sha512-1MUOYIELJ5J6uFeZFry+mYxAN5cW3c4TCv+7okpzt75I5RxmEXp08DG66ZuLPBy7MNeq0mDEWedOl4KD5xK1rA==
+"@adonisjs/lucid@^6.2.1":
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/@adonisjs/lucid/-/lucid-6.2.1.tgz#6e5f118024a424d73efc27ca0ce22dcfc8697314"
+  integrity sha512-2HEID7fqZ91GCNCb9/YqcL5Ac6PVAB6eEEz+YTOzd2mg9BUHdwVdAkQwYXiVUtACyYT4YhEX0jzKblWZrqm4Pw==
   dependencies:
     "@adonisjs/generic-exceptions" "^2.0.1"
     chance "^1.0.18"
